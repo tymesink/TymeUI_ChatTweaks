@@ -1,0 +1,20 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+
+    <Script file="AchievementFilter.lua"/>
+    <Script file="AddonMessages.lua"/>
+    <Script file="AuctionSoldAlert.lua"/>
+    <Script file="AutoCongratulate.lua"/>
+    <Script file="AutoDing.lua"/>
+    <Script file="AutoWelcome.lua"/>
+    <Script file="ChannelSounds.lua"/>
+    <Include file="ChatFrameBorders.xml"/>
+    <Script file="ChatTabs.lua"/>
+    <Script file="DamageMeters.lua"/>
+    <Script file="EditBox.lua"/>
+    <Script file="EditBoxHistory.lua"/>
+    <Script file="KeywordSounds.lua"/>
+    <Script file="Magic8Ball.lua"/>
+    <Script file="SemiAutoCongratulate.lua"/>
+    <Script file="ChatStyles.lua" />
+</Ui>

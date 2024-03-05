@@ -1,0 +1,16 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+    <!-- Library Manager -->
+	<Script file="LibManager.lua"/>
+
+    <!-- Internal libraries -->
+    <Script file="libs\Constants.lua"/>
+    <Script file="libs\Utilities.lua"/>
+    <Script file="libs\Logger.lua"/>
+    <Script file="libs\SharedMedia.lua"/>
+    <Script file="libs\AceConfigHelper.lua"/>
+    <Script file="libs\Animation.lua"/>
+
+    <Script file="Addon.lua"/>
+    <Script file="Config.lua"/>
+</Ui>

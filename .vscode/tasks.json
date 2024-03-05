@@ -1,0 +1,14 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Deploy ElvUIChat",
+            "type": "shell",
+            "command": "build/deploy.cmd '${workspaceFolder}\\source\\ElvUIChat' 'D:\\Games\\World of Warcraft\\_retail_\\Interface\\AddOns\\ElvUIChat'",
+            "presentation": {"echo": true, "reveal": "always", "focus": false, "panel": "shared", "showReuseMessage": false, "clear": true},
+            "group": {"kind": "build", "isDefault": true},
+        }
+    ]
+}

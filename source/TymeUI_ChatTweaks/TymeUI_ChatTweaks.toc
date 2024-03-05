@@ -1,0 +1,21 @@
+## Interface: 100005
+## Title: |cff1784d1TymeUI|r: ChatTweaks
+## Author: Tymesink
+## Version: 1.0.0
+## Notes: Provides various tweaks to the UI chat frames.
+## SavedVariables: ChatTweaksDB
+## SavedVariablesPerCharacter: ChatTweaksCharacterDB
+## OptionalDeps: Ace3, CallbackHandler-1.0, LibAlts-1.0, LibDataBroker1.1, LibDBIcon-1.0, LibDialog-1.0, LibSharedMedia-3.0, LibSink-2.0, LibStub, SharedMedia 
+## X-AltTitle: ChatTweaks
+## X-Category: Chat
+## X-Credits: maqjav, Maciza-Tyrande, Crackpot
+## X-Date: Jan. 08, 2023
+## X-Email: tymesink@me.com
+## X-License: All Rights Reserved
+
+#@no-lib-strip@
+libraries\_load.xml
+#@end-no-lib-strip@
+
+Core\_load.xml
+modules\_load.xml
