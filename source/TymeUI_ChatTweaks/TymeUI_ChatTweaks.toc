@@ -1,4 +1,4 @@
-## Interface: 100005
+## Interface: 100205
 ## Title: |cff1784d1TymeUI|r: ChatTweaks
 ## Author: Tymesink
 ## Version: 1.0.0
